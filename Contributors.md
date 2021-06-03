@@ -11193,6 +11193,7 @@ Yury Smyslov
 - [Nicholas Robertson](https://github.com/nicholas-robertson)
 - [LFGaming](https://github.com/LFGaming)
 - [Tautaus](https://github.com/tautaus)
+- xz
 - [Michaela Williams](https://github.com/michaela-williams)
 - [Mathews Peter] (https://github.com/MathewsPeter)
 - [Durden Liu](https://github.com/Durdenliu)
